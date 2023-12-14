@@ -8,7 +8,7 @@ Introducing **Brand Kit**
 
 | Logo                                                                                                            | Wordmark                                                                                                            |
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| ![LogoGreen](https://raw.githubusercontent.com/Mint-Blockchain/mint-brandkit/main/assets/green/Logo%20Mark.svg) | ![WordmarkGreen](https://raw.githubusercontent.com/Mint-Blockchain/mint-brandkit/main/assets/green/Word%20Mark.svg) |
+| ![LogoOrange](https://raw.githubusercontent.com/Mint-Blockchain/mint-brandkit/main/assets/green/Logo%20Mark.svg) | ![WordmarkGreen](https://raw.githubusercontent.com/Mint-Blockchain/mint-brandkit/main/assets/green/Word%20Mark.svg) |
 | ![LogoBlack](https://raw.githubusercontent.com/Mint-Blockchain/mint-brandkit/main/assets/black/Logo%20Mark.svg) | ![WordmarkBlack](https://raw.githubusercontent.com/Mint-Blockchain/mint-brandkit/main/assets/black/Word%20Mark.svg) |
 
 ## Usage
